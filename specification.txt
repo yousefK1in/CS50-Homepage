@@ -1,0 +1,57 @@
+HTML tags used:
+<nav>
+<div>
+<ul>
+<li>
+<a>
+<button>
+<h2>
+<h3>
+<h4>
+<p>
+<img>
+<hr>
+<span>
+<svg>
+
+---------------------------------------------------
+
+CSS properties used:
+margin
+margin-right
+padding
+box-sizing
+color
+background-color
+transition
+font-size
+display
+flex-direction
+grid-template-columns
+gap
+justify-content
+justify-self
+align-items
+cursor
+text-decoration
+content
+width
+max-width
+height
+border-radius
+border
+position
+top
+left
+transform
+box-shadow
+
+---------------------------------------------------
+
+javaScript usage:
+i used javascript to make a darkmode toggle switch
+
+---------------------------------------------------
+
+bootstrap usage:
+i used bootstrap to make the navbar because its easy and responsive
